@@ -152,7 +152,7 @@ Para comenzar la aplicacion:
 ```bash
 
 
-source veny/bin/activate
+source venv/bin/activate
 python app.by 'iniciar aplicacion'
 
 control c para terminar
